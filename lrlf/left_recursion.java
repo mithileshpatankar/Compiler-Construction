@@ -43,4 +43,5 @@ class left_recursion
 	}
 }
 		
-		
+
+A-Ax/B	

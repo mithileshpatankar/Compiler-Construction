@@ -99,3 +99,8 @@ class follow
 	}
 }
 		
+
+E - T E'
+E' - + T E
+E' - ep
+T - F T'

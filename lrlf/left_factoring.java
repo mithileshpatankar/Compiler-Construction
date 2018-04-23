@@ -41,3 +41,6 @@ class left_factoring
 	}
 }	
 		
+
+
+A-aabAB/aabc

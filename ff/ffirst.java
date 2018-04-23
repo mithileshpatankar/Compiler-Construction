@@ -77,4 +77,9 @@ class ffirst
 		k=0;
 	}
 }
-		
+
+
+E - T E'
+E' - + T E
+E' - ep
+T - F T'		
