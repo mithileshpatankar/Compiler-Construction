@@ -65,3 +65,5 @@ class operator {
 		else System.out.print("\nInput cannot be parsed!");
 	}
 }
+
+i+i*i+i
