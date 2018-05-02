@@ -66,4 +66,4 @@ class operator {
 	}
 }
 
-i+i*i+i
+//i+i*i+i
